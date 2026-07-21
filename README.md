@@ -1,6 +1,6 @@
-# Classroom Lens
+# SimuTeach
 
-Classroom Lens is an AI classroom simulator for K–12 STEM teachers. A teacher rehearses a lesson with five fictional students whose private, structured learning states evolve in response to specific teaching moments. The final Classroom X-Ray links every insight to real evidence from the rehearsal.
+SimuTeach is an AI classroom simulator for K–12 STEM teachers. A teacher rehearses a lesson with five fictional students whose private, structured learning states evolve in response to specific teaching moments. The final Classroom X-Ray links every insight to real evidence from the rehearsal.
 
 This is an OpenAI Build Week 2026 Education-track project.
 
