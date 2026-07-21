@@ -1,0 +1,32 @@
+{
+  "name": "classroom-lens",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "mammoth": "^1.10.0",
+    "next": "latest",
+    "openai": "latest",
+    "pdfjs-dist": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "^5.9.3",
+    "vitest": "latest"
+  },
+  "overrides": {
+    "postcss": "8.5.10"
+  }
+}
