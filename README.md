@@ -6,15 +6,13 @@ This is an OpenAI Build Week 2026 Education-track project.
 
 ## The magic loop
 
-1. Choose the precomputed Newton’s Third Law lesson or upload PDF, PPTX, DOCX, or TXT material.
+1. Upload class materials (e.g. slide decks, textbooks).
 2. Meet five students with distinct backgrounds and participation styles.
 3. Teach naturally with optional camera and live microphone transcription, or use the typed demo controls.
 4. Watch controlled hand raises and hear at most one student respond at a time.
-5. Correct Maya’s initial “the truck pushes harder” misconception.
-6. Ask again and hear Maya use her updated simulated understanding.
+5. Correct a student’s initial misconception.
+6. Ask again and hear the student use their updated simulated understanding.
 7. Open the Classroom X-Ray to inspect mastery shifts and timestamp-linked evidence.
-
-The default demo is deterministic unless `USE_OPENAI_DEMO=true`. This makes the three-minute judge path reliable even if a model or audio call is unavailable. Uploaded lessons use GPT-5.6 when configured and automatically fall back to bounded local behavior.
 
 ## Run locally
 
